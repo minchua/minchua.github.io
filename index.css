@@ -1,0 +1,11 @@
+body{
+  color: copper; font-size: 20px; background-image: url(http://i.telegraph.co.uk/multimedia/archive/02701/kim_2701423b.jpg); background-size: cover;}
+
+h1{color: red; font-size: 25px; font: : Arial;}
+h2{color: orange;}
+li{color: black;}
+
+.first-group {color: Blue; font-size: 30px}
+.last-group {color: green; font-size: 12px}
+
+#important {font-size: 50px;}
