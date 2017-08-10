@@ -1,5 +1,5 @@
 body{
-  color: copper; font-size: 20px; background-image: url(http://i.telegraph.co.uk/multimedia/archive/02701/kim_2701423b.jpg); background-size: cover;}
+  color: copper; font-size: 20px; background-image: url(http://i.telegraph.co.uk/multimedia/archive/02701/kim_2701423b.jpg); background-size: cover; background-opacity: 0.5;}
 
 h1{color: red; font-size: 25px; font: : Arial;}
 h2{color: orange;}
